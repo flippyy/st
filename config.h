@@ -107,7 +107,7 @@ static const char *colorname[] = {
  "#ffffff", /* base05 */
  "#9d8b70", /* base03 */
  "#ca7f32", /* base09 */
- "#302b25", /* base01 */
+ "#ffd9ad", /* base01 */
  "#5b725b", /* base02 */
  "#b4a490", /* base04 */
  "#d7c8bc", /* base06 */
